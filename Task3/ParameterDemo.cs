@@ -17,7 +17,7 @@ namespace Task3
         // Creating a method using out parameter
         public void GetFullName(out string fullname)
         {
-            fullname = "Mausam Gurung";   // Assigning value to out parameter
+            fullname = "Mausam Gurung"; 
         }
 
         // Creating a method using params keyword
